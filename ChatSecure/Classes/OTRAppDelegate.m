@@ -20,6 +20,8 @@
 //  You should have received a copy of the GNU General Public License
 //  along with ChatSecure.  If not, see <http://www.gnu.org/licenses/>.
 
+/// 学习使用^_^
+
 #import "OTRAppDelegate.h"
 
 #import "OTRConversationViewController.h"
